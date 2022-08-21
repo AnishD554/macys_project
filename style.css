@@ -1,0 +1,60 @@
+nav{
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color:black;
+  margin-right:100px;
+  font-family: Signika Negative;
+
+  
+}
+#flex{
+  display: flex;
+  flex-direction: row;
+}
+#item{
+  margin-left:50px;
+}
+#flex1{
+  display: flex;
+  flex-wrap:wrap;;
+}
+.item1{
+  margin-left:35px;
+  margin-top:10px;
+  border: 2px solid black;
+  text-align: center;
+}
+button{
+  background-color:black;
+  margin-bottom:10px;
+  color:white;
+  height: 25px;
+  width: 150px;
+}
+fieldset{
+  margin-top:40px;
+  text-align: center;
+  width:300px;
+  height: 400px;
+  margin-left:500px;
+}
+input{
+  margin-top:20px;
+}
+#maq{
+  background-color:blue;
+  color:white;
+  text-align: center;
+  font-size:60px;
+  
+}
+#signupbu{
+  margin-top:20px;
+  
+}
+#signupbu:hover{
+  background-color:grey;
+  color:blue;
+}
